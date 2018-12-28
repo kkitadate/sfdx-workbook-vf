@@ -26,4 +26,12 @@
         
         System.assertEquals(true,WarehouseDataInstall.getHasData());
     }
+
+    @isTest static void testClassConstructor() {
+        Test.startTest();
+        QuickOrderController q = new QuickOrderController(null);
+        Test.stopTest();
+
+        System.assert(q != null);
+    }
 }
