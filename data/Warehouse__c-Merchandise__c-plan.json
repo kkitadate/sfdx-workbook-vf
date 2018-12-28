@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Warehouse__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Warehouse__cs.json"
+        ]
+    },
+    {
+        "sobject": "Merchandise__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Merchandise__cs.json"
+        ]
+    }
+]

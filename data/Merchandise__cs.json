@@ -1,0 +1,15 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Merchandise__c",
+                "referenceId": "Merchandise__cRef1"
+            },
+            "Name": "Test Merchandise",
+            "Condition__c": "New",
+            "Price__c": 100,
+            "Quantity__c": 10000,
+            "Warehouse__c": "@Warehouse__cRef1"
+        }
+    ]
+}
